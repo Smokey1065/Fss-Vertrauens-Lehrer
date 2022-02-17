@@ -1,0 +1,30 @@
+.List {
+    background: linear-gradient(
+        50deg, 
+        
+    );
+    padding: 40px;
+    color: white;
+    text-align: center;
+}
+
+img {
+    height: 60px;
+    padding-left: 1220px;
+    
+}
+
+body {
+     background: linear-gradient(
+        50deg, 
+        green,
+        lightgreen
+    );
+    color: white;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.info {
+    padding-top: 220px;
+}
